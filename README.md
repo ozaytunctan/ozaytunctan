@@ -1,8 +1,7 @@
 ### Hi there, I'm [Özay!] 👋
 
 
-
-
+  <ul style="display:flex;flex-flow:row wrap; list-style:none">
     <li>
       <a href="https://twitter.com/ozaytunctan" target="_blank">
           <img align="left"  
@@ -11,26 +10,8 @@
                 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"/>
       </a>
     </li>
-
-     <li>
-      <a href="https://www.linkedin.com/in/ozaytunctan/" target="_blank">
-         <img align="left" 
-              alt="Ozay's LinkedIN"
-              width="22px" 
-              src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png"/>
-        </a>
-    </li>
-
-      <li>
-        <a href="https://github.com/ozaytunctan" target="_blank">
-           <img align="left" alt="Ozay's GitHub" 
-                width="22px" 
-                src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png" />
-          </a>
-    
-    </li>
+    </ul>
   
-
     
 
 
