@@ -1,6 +1,8 @@
 ### Hi there, I'm [Özay!] 👋
 
-  <ul style="display:flex;flex-flow:row wrap; list-style:none">
+
+<code>
+  <ul styles="display:flex;flex-flow:row wrap; list-style:none">
     <li>
       <a href="https://twitter.com/ozaytunctan" target="_blank">
           <img align="left"  
@@ -29,6 +31,8 @@
     </li>
 
     </ul>
+
+    </code>
     
 
 
