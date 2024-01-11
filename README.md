@@ -51,7 +51,7 @@
  
  ---
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bekiristek/bekiristek/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/ozaytunctan/user-content/blob/master/profile.gif?raw=true" width="500" height="320" />
  
 **Back-end**
 
