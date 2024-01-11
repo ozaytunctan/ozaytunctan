@@ -1,5 +1,19 @@
 ### Hi there, I'm [Özay!] 👋
 
+<code>
+<a href="https://twitter.com/ozaytunctan" target="_blank">
+  <img align="left" alt="Ozay TUNÇTAN | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png" />
+</a>
+</code>
+
+<a href="https://www.linkedin.com/in/ozaytunctan/" target="_blank">
+  <img align="left" alt="Ozay's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png"/>
+</a>
+<a href="https://github.com/ozaytunctan" target="_blank">
+  <img align="left" alt="Ozay's GitHub" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png" />
+</a>
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=ozaytunctan)
@@ -67,6 +81,5 @@
   </div>
 
  <!--📈 my github stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ozaytunctan&show_icons=true&theme=gotham" alt="ozaytunctan" />
 -->
