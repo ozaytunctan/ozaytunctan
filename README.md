@@ -2,17 +2,19 @@
 
 <code>
 <a href="https://twitter.com/ozaytunctan" target="_blank">
-  <img align="left" alt="Ozay TUNÇTAN | Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png" />
+  <img align="left" 
+    alt="Ozay TUNÇTAN | Twitter" 
+    width="22px"
+    src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Twitter_white.png" />
 </a>
-</code>
 
 <a href="https://www.linkedin.com/in/ozaytunctan/" target="_blank">
-  <img align="left" alt="Ozay's LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png"/>
+  <img align="left" alt="Ozay's LinkedIN" width="60px" height="80px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/LinkedIN_white.png"/>
 </a>
 <a href="https://github.com/ozaytunctan" target="_blank">
   <img align="left" alt="Ozay's GitHub" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png" />
 </a>
-
+</code>
 
 
 
