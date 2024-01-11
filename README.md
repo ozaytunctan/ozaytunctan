@@ -1,18 +1,18 @@
 ### Hi there, I'm [Özay!] 👋
 
 
-<code>
-  <ul styles="display:flex;flex-flow:row wrap; list-style:none">
+
+
     <li>
       <a href="https://twitter.com/ozaytunctan" target="_blank">
           <img align="left"  
                 alt="Ozay TUNÇTAN | Twitter" 
                 width="22px"
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />
+                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png"/>
       </a>
     </li>
 
-    <li>
+     <li>
       <a href="https://www.linkedin.com/in/ozaytunctan/" target="_blank">
          <img align="left" 
               alt="Ozay's LinkedIN"
@@ -29,10 +29,8 @@
           </a>
     
     </li>
+  
 
-    </ul>
-
-    </code>
     
 
 
